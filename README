@@ -1,0 +1,11 @@
+This Sudoku solving program is written for Clasp / Gringo. 
+
+I run it using the combined application, Clingo.
+
+To download Clasp, Gringo, or Clingo, go to http://potassco.sourceforge.net/ .
+
+To run the solver, run the following command:
+
+clingo 0 puzzle_easy.lp sudoku.lp
+
+This is a demonstration of how easy some problems can be to solve using the correct programming language.
